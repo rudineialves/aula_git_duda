@@ -1,1 +1,2 @@
-Arquivo alterado
+Arquivo com uma nova linha.
+Outra linha do arquivo.
